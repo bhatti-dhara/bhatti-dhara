@@ -113,9 +113,9 @@ I can help you with:
 
 ## 📫 Contact
 
-- GitHub: https://github.com/bhatti-dhara  
-- LinkedIn: https://www.linkedin.com/in/dhara-bhatti/  
-- Upwork: https://www.upwork.com/freelancers/~01c62eac40611113e6  
+- **GitHub:** https://github.com/bhatti-dhara  
+- **LinkedIn:** https://www.linkedin.com/in/dhara-bhatti/  
+- **Upwork:** https://www.upwork.com/freelancers/~01c62eac40611113e6  
 
 ---
 

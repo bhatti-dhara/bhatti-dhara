@@ -12,8 +12,8 @@ I’m an eCommerce and full-stack developer with **10+ years of experience**, sp
 ## 🧠 Core Skills
 
 ### 🛒 eCommerce Development
-- Magento 2 (Adobe Commerce) – Custom modules, checkout, integrations, theme customizations  
-- Shopify – Custom themes, apps, and storefront optimization  
+- Magento 2 (Adobe Commerce) - Custom modules, checkout, integrations, theme customizations  
+- Shopify - Custom themes, apps, and storefront optimization  
 - B2B & B2C eCommerce solutions  
 - Multi-store architecture  
 
@@ -29,7 +29,7 @@ I’m an eCommerce and full-stack developer with **10+ years of experience**, sp
 
 ### 🚀 Performance & DevOps
 - Redis, Varnish, Elasticsearch  
-- AWS, Docker, DigitalOcean  
+- AWS, Docker, DigitalOcean, Nexcess  
 - CI/CD & deployment  
 - Performance optimization (improved load time up to 2x)  
 
@@ -121,4 +121,4 @@ I can help you with:
 
 ## ⚡ My Approach
 
-I focus on building **clean, scalable, and high-performance solutions** that not only work technically but also improve **business outcomes and user experience**.
+**If your store needs performance and structure, let’s talk.**
